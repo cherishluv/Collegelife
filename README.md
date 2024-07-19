@@ -27,20 +27,20 @@ We learned Excel and ChatGPT in an exciting, hands-on class workshop organized b
 
 One of the most significant milestones today was being officially appointed as the first leader of my group. This role is a recognition of my skills and dedication, and it provides a valuable opportunity to develop project management and team leadership skills. Leading a group of talented peers and coordinating with the other five leaders appointed in our team has been a rewarding experience.
 
-### Day 5: Exploring the IT Department's Vision and Mission
+## Day 5: Exploring the IT Department's Vision and Mission
 
 **Date: [Your Date Here]**
 
 Today marked the sixth day of our college journey, beginning with an insightful and educational experience.
 Today marked the fifth day of our college journey, beginning with an insightful and educational experience.
 
-#### Introduction to the IT Department
+### Introduction to the IT Department
 
 @@ -75,9 +73,9 @@ As I reflect on today's experiences, I am motivated to contribute to and benefit
 
-### Day 6: Universal Human Values, Canva Insights, and CodeGNE Leadership
+## Day 6: Universal Human Values, Canva Insights, and CodeGNE Leadership
 
 Today marked the fifth day of my college journey, and it was packed with learning, interaction, and leadership.
 Today marked the sixth day of my college journey, and it was packed with learning, interaction, and leadership.
 
-#### Universal Human Values: A Path to Happines
+### Universal Human Values: A Path to Happines
