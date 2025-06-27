@@ -26,7 +26,7 @@ for us how to spend this time .
 
 **_Someother information_**
 
-1.**_SCIE_**(Student chapter of institution of engineering)
+1.**SCIE**(Student chapter of institution of engineering)
 which is found in 1969
 
 2.**ISTE**(Indian society for tec.education)
